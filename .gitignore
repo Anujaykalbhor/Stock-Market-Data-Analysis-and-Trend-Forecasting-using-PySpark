@@ -1,0 +1,16 @@
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb-checkpoint
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+
+# Python-specific files
+__pycache__/
+*.pyc
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Environment-specific files
+.env
+venv/
